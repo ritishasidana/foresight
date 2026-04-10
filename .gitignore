@@ -1,0 +1,30 @@
+# ===== BACKEND =====
+backend/__pycache__/
+backend/*.pyc
+backend/*.pyo
+backend/venv/
+backend/.env          
+
+# ===== FRONTEND =====
+frontend/node_modules/
+frontend/.env.local   
+frontend/dist/
+frontend/build/
+frontend/.vite/
+
+# ===== DATA =====
+
+# data/churn_weekly.csv
+# data/logins_weekly.csv
+# data/transactions_weekly.csv
+
+# ===== SCRIPTS =====
+scripts/__pycache__/
+scripts/*.pyc
+
+# ===== GENERAL =====
+.DS_Store
+Thumbs.db
+*.log
+*.pem
+*.key
