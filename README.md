@@ -2,7 +2,7 @@
 
 AI-powered predictive forecasting for financial time-series data. Upload any CSV, get a statistically rigorous forecast, anomaly detection, trend decomposition, backtested accuracy scores, and plain-English AI commentary — in 5–15 seconds.
 
-Live demo: https://foresight-mspf.onrender.com---
+Live demo: https://foresight-mspf.onrender.com
 ## Overview
 
 ForeSight is a self-service AI forecasting tool that transforms any
