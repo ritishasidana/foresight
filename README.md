@@ -1,9 +1,6 @@
 # ForeSight — AI Predictive Forecasting
 
----
-## 🚀 Live Demo  
-👉 https://foresight-mspf.onrender.com
-
+Live demo: https://foresight-mspf.onrender.com
 ---
 ## Overview
 
